@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- meta -->
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Walid</title>
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i|Playfair+Display:400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="lib/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <link href="lib/hover/hover.min.css" rel="stylesheet">
+
+  <!-- Blog Stylesheet File -->
+  <link href="css/blog.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Responsive css -->
+  <link href="css/responsive.css" rel="stylesheet">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="images/favicon.png">
+
+  <!-- =======================================================
+    Theme Name: Folio
+    Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
+    Author: BootstrapMade.com
+    Author URL: https://bootstrapmade.com
+  ======================================================= -->
+</head>
+
+<body>
+
+  <!-- start section navbar -->
+  <nav id="main-nav-subpage" class="subpage-nav">
+    <div class="row">
+      <div class="container">
+
+        <div class="logo">
+          <a href="index.html"><img src="images/logo.png" alt="logo"></a>
+        </div>
+
+        <div class="responsive"><i data-icon="m" class="ion-navicon-round"></i></div>
+
+        <ul class="nav-menu list-unstyled">
+          <li><a href="#homee" class="smoothScroll">Accueil</a></li>
+          <li><a href="#about" class="smoothScroll">Apropo</a></li>
+          <li><a href="#portfolio" class="smoothScroll">Nos service</a></li>
+          <li><a href="#blog" class="smoothScroll">Journal</a></li>
+          <li><a href="#contact" class="smoothScroll">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+  <!-- End section navbar -->
+  <!-- start section main content -->
+  <div class="main-content paddsection">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-8 col-md-offset-2">
+          <div class="row">
+            <div class="container-main single-main">
+              <div class="col-md-12">
+                <div class="block-main mb-30">
+                  <img src="images/blog-post-big.jpg" class="img-responsive" alt="reviews2">
+                  <div class="content-main single-post padDiv">
+                    <div class="journal-txt">
+                      <h4><a href="#">TOP 10 DES RAISONS POUR LESQUELLES VOTRE SITE WEB D ENTREPRISE DOIT ETRE  MOBILE-FRIENDLY </a></h4>
+                    </div>
+                    <div class="post-meta">
+                      <ul class="list-unstyled mb-0">
+                        <li class="author">par:<a href="#">fourloul walid</a></li>
+                        <li class="date">date:<a href="#">Mars 31, 2018</a></li>
+                        <li class="commont"><i class="ion-ios-heart-outline"></i><a href="#">3 Commentaire</a></li>
+                      </ul>
+                    </div>
+                    <p class="mb-30"><p>&nbsp;</p>
+<h2>#1&nbsp;: Croissance explosive des internautes mobiles (mobinautes)</h2>
+<p>Faites-vous &agrave; l&rsquo;id&eacute;e! L&rsquo;audience mobile est &eacute;norme! D&rsquo;apr&egrave;s la &laquo;&nbsp;Mobile Marketing Association of Asia&nbsp;&raquo;, pr&egrave;s de 5 milliards de personnes poss&egrave;dent un t&eacute;l&eacute;phone cellulaire alors que seulement 4 milliards d&rsquo;individus poss&egrave;dent une brosse &agrave; dents&hellip; Exag&eacute;r&eacute;, me direz-vous? Attendez la suite.</p>
+<ul>
+<li>91&nbsp;% des propri&eacute;taires de cellulaire l&rsquo;ont toujours avec eux</li>
+<li>Un porte-monnaie perdu est report&eacute; en moyenne apr&egrave;s 24&nbsp;h alors qu&rsquo;un t&eacute;l&eacute;phone cellulaire dans les 70 minutes</li>
+<li>3 recherches sur 5 sont effectu&eacute;es &agrave; partir d&rsquo;un mobile</li>
+<li>75&nbsp;% des usagers mobiles d&eacute;pendent de leur appareil pour obtenir des directions routi&egrave;res</li>
+</ul>
+<p>Encore plus important que tout ceci, l&rsquo;audience mobile ne cesse d&rsquo;augmenter&hellip; Les usagers mobiles sont de plus en plus nombreux et se servent des t&eacute;l&eacute;phones intelligents dans n&rsquo;importe quelle situation du quotidien.</p>
+<p>&nbsp;</p>
+<h2>#2&nbsp;: Parce que Google le recommande&nbsp;&nbsp;&nbsp;&nbsp;</h2>
+<p>N&rsquo;est-ce pas l&agrave; une excellente raison? Google n&rsquo;a pas l&rsquo;habitude de d&eacute;voiler ses crit&egrave;res en mati&egrave;re de positionnement dans les r&eacute;sultats de recherche. Quand Google prend la peine d&rsquo;aviser la communaut&eacute; Web en entier plusieurs mois en avance, pourquoi ne pas prendre le taureau par les cornes et passer &agrave; l&rsquo;action?</p>
+<p>Le g&eacute;ant am&eacute;ricain de l&rsquo;information a donc affirm&eacute; que la meilleure pratique qui soit est de concevoir un site Web en responsive design. Pourquoi?</p>
+<p>Premi&egrave;rement, parce qu&rsquo;un site Web en responsive design est beaucoup plus simple &agrave; g&eacute;rer pour vous qu&rsquo;un site Web mobile. Tout se fait en un seul endroit et en un clin d&rsquo;&oelig;il.</p>
+<p>Ensuite, parce qu&rsquo;un site en responsive design fournit une meilleure exp&eacute;rience &agrave; l&rsquo;internaute. En effet, autant sur mobile que sur ordinateur, l&rsquo;internaute n&rsquo;a qu&rsquo;une seule URL &agrave; retenir. Il est plus facile pour vos internautes de partager du contenu sur les m&eacute;dias sociaux et de s&rsquo;engager envers vous. En effet, prenez par exemple un mobinaute qui partage un lien mobile sur Facebook. Lorsque vous cliquez sur ce lien &agrave; partir d&rsquo;un ordinateur, vous devez consulter un site mobile sur votre ordinateur&hellip; Ce n&rsquo;est pas tr&egrave;s ergonomique, n&rsquo;est-ce pas? &Agrave; l&rsquo;inverse, un site Web responsive permettra aux 2 utilisateurs de consulter le m&ecirc;me lien de fa&ccedil;on optimale.</p>
+<p>Ensuite, n&rsquo;oublions pas que Google veut plus de sites mobiles. N&rsquo;oublions pas que plus de 50&nbsp;% des recherches sur le Web sont d&eacute;sormais effectu&eacute;es &agrave; partir de p&eacute;riph&eacute;riques mobiles&hellip; Il est tout &agrave; fait normal que Google veuille fournir &agrave; ses usagers des r&eacute;sultats Web optimis&eacute;s pour leur appareil.</p>
+<p>&nbsp;</p>
+<h2>#3&nbsp;: Un seul site Web pour de multiples appareils</h2>
+<p><a href="https://www.hdmarketing.ca/s/concevoir-votre-site-en-responsive-design/1/6">Un site Web en responsive design</a> permet une excellente ergonomie pour l&rsquo;ensemble des internautes! Mobile, tablettes, ordinateurs, smart TV, etc., tous les internautes de ce monde peuvent d&eacute;sormais consulter le site Web qu&rsquo;ils d&eacute;sirent gr&acirc;ce &agrave; la technologie du responsive design. Ne voudriez-vous pas que quiconque d&eacute;sire consulter votre site Web puisse le faire o&ugrave; il le veut, et quand il le veut?</p>
+<p>&nbsp;</p>
+<h2>#4&nbsp;: Un seul site Web plus facile &agrave; g&eacute;rer</h2>
+<p>Quand vous avez un site Web complet et un site Web mobile, vous devez effectuer une double gestion. Ce que vous modifiez sur une plateforme doit aussi &ecirc;tre modifi&eacute; sur l&rsquo;autre plateforme. Un site Web en responsive design permet &eacute;galement d&rsquo;&eacute;viter cette perte de temps. Cela signifie &eacute;galement une double strat&eacute;gie SEO.</p>
+<p>&nbsp;</p>
+<h2>#5&nbsp;: Les petites entreprises ont besoin d&rsquo;un site compatible sur mobiles</h2>
+<p>Il est d&eacute;sormais confirm&eacute; que pr&egrave;s de 90&nbsp;% des recherches effectu&eacute;es sur mobiles ont pour objectif de trouver une entreprise locale. En calculant autrement, on parle donc de PLUS DE 45&nbsp;% DE TOUTES les recherches Web &agrave; ce jour. Le fait d&rsquo;offrir un site Web compatible mobile est donc sans l&rsquo;ombre d&rsquo;un doute plus attrayant pour les mobinautes et a donc un impact direct sur vos revenus.</p>
+<p>&Agrave; l&rsquo;heure actuelle, pr&egrave;s de 70&nbsp;% des petites entreprises en Australie ne sont pas compatibles mobiles. Il est donc r&eacute;aliste d&rsquo;extrapoler cette donn&eacute;e &agrave; l&rsquo;&eacute;chelle canadienne et m&ecirc;me qu&eacute;b&eacute;coise. Les petites entreprises n&rsquo;ont donc rien &agrave; perdre! Il existe une panoplie de solutions peu co&ucirc;teuses sur le Web qui permettent de cr&eacute;er un site Web compatible mobile en quelques heures. Les entreprises qui se conformeront &agrave; cette nouvelle norme auront un avantage comp&eacute;titif de taille!</p>
+<p>&nbsp;</p>
+<h2>#6&nbsp;: Cybercommerce est maintenant commerce mobile</h2>
+<p>Le Cybercommerce traditionnel comme on le conna&icirc;t est d&eacute;sormais le commerce mobile. Les gens magasinent sur mobile, de plus en plus, et effectuent leurs r&eacute;servations au restaurant ou &agrave; l&rsquo;h&ocirc;tel via mobile. Convertissez les visiteurs mobiles en consommateurs loyaux. Offrez-leur une plateforme qui leur permette de mener &agrave; bien leurs achats.</p>
+<p>&nbsp;</p>
+<h2>#7&nbsp;: &Eacute;vitez de donner vos clients &agrave; vos comp&eacute;titeurs</h2>
+<p>Si vous ne passez pas &agrave; l&rsquo;action, vos comp&eacute;titeurs, eux, le feront. Ne leur donnez pas vos clients. R&eacute;pondez &agrave; ce besoin grandissant de la part de vos clients et faites-en un ambassadeur fid&egrave;le. Autrement, il ira voir ailleurs. En effet, si votre site Web est optimis&eacute; pour leur appareil mobile, qu&rsquo;il se t&eacute;l&eacute;charge rapidement et qu&rsquo;il fournit rapidement ce que l&rsquo;internaute veut, il sera plus susceptible de demeurer sur votre site et &eacute;ventuellement d&rsquo;y r&eacute;server une chambre. Autrement, s&rsquo;il doit toujours agrandir l&rsquo;&eacute;cran pour lire ou consulter votre contenu, rapetisser l&rsquo;&eacute;cran pour pouvoir retourner au menu et ainsi de suite, il consid&egrave;rera la navigation comme &eacute;tant d&eacute;sagr&eacute;able, lourde et fastidieuse.</p>
+<p>&nbsp;</p>
+<h2>#8&nbsp;: Un manque d&rsquo;engagement entra&icirc;ne une perte de revenus</h2>
+<p>Une absence d&rsquo;engagement de qualit&eacute; avec vos usagers mobiles entra&icirc;ne une perte de revenus importante pour une entreprise. &Agrave; titre d&rsquo;exemple, moins de 20&nbsp;% des petites et moyennes entreprises de l&rsquo;Australie proposent un site Web compatible mobile alors que plus des deux tiers de la population poss&egrave;dent un t&eacute;l&eacute;phone intelligent. N&rsquo;est-ce pas aberrant?</p>
+<p>&nbsp;</p>
+<h2>#9&nbsp;: Un design Web compatible sur mobile g&eacute;n&egrave;re en revenus Web</h2>
+<p>Une pr&eacute;sence mobile g&eacute;n&egrave;re de nouvelles opportunit&eacute;s de vente sur votre site Web! Depuis que vos clients potentiels utilisent un mobile sur une base quotidienne, et ce pour n&rsquo;importe quelle occasion, un site Web mobile vous fait assur&eacute;ment r&eacute;cup&eacute;rer des ventes que vous ne faisiez pas avec votre site Web conventionnel.</p>
+<p>En effet, un site Web mobile favorise &eacute;galement la r&eacute;tention des consommateurs. 74&nbsp;% des mobinautes affirment qu&rsquo;ils revisiteront d&eacute;finitivement un site Web compatible mobile et 66&nbsp;% affirment qu&rsquo;un tel site les convainc beaucoup plus facilement &agrave; effectuer un achat en ligne.</p>
+<p>&nbsp;</p>
+<h2>#10&nbsp;: Un site Web mobile est peu co&ucirc;teux et simple</h2>
+<p>Il n&rsquo;est pas essentiel de refaire votre site en entier. Vous poss&eacute;dez d&eacute;j&agrave; un site conventionnel? Un simple site mobile pourra tr&egrave;s bien faire l&rsquo;affaire. Il est vrai que Google favorise les sites en responsive design, mais vaut mieux un site mobile que rien du tout. Un site mobile n&rsquo;est pas co&ucirc;teux et est tr&egrave;s simple &agrave; mettre en place.&nbsp;</p>
+<div>&nbsp;</div>
+<div>
+<hr />
+<h2>&nbsp;</h2></p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-12">
+                <div class="comments text-left padDiv mb-30">
+                  <div class="entry-comments">
+                    <h6 class="mb-30">4 comments</h6>
+                    <ul class="entry-comments-list list-unstyled">
+                      <li>
+                        <div class="entry-comments-item">
+                          <img src="images/avatar.jpg" class="entry-comments-avatar" alt="">
+                          <div class="entry-comments-body">
+                            <span class="entry-comments-author">Amina benbernou</span>
+                            <span><a href="#">fev 14, 2018 at 12:48 pm</a></span>
+                            <p class="mb-10">je trouve ca trop beau et je pense que je vais achte un site  </p>
+                            <a class="rep" href="#">Reply</a>
+                          </div>
+                        </div>
+                        <ul class="entry-comments-reply list-unstyled">
+                          <li>
+                            <div class="entry-comments-item">
+                              <img src="images/avatar.jpg" class="entry-comments-avatar" alt="">
+                              <div class="entry-comments-body">
+                                <span class="entry-comments-author">justine cardon</span>
+                                <span><a href="#">fev 14, 2018 at 12:51 pm</a></span>
+                                <p class="mb-10"> bravo et bon continuation.</p>
+                                <a class="rep" href="#">Reply</a>
+                              </div>
+                            </div>
+                          </li>
+                        </ul>
+                      </li>
+                      <li>
+                        <div class="entry-comments-item">
+                          <img src="images/avatar.jpg" class="entry-comments-avatar" alt="">
+                          <div class="entry-comments-body">
+                            <span class="entry-comments-author">Hakima chagrouch</span>
+                            <span><a href="#">fev 14, 2018 at 12:55 pm</a></span>
+                            <p class="mb-10">c'est du n import quoi. </p>
+                            <a class="rep" href="#">Reply</a>
+                          </div>
+                        </div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="col-lg-12">
+                <div class="cmt padDiv">
+                  <form id="comment-form" method="post" action="" role="form">
+                    <div class="row">
+                        <div class="col-lg-6">
+                          <div class="form-group">
+                            <input id="form_name" type="text" name="name" class="form-control" placeholder="nom *" required="required">
+                          </div>
+                        </div>
+                        <div class="col-lg-6">
+                          <div class="form-group">
+                            <input id="form_email" type="email" name="email" class="form-control" placeholder="email *" required="required">
+                          </div>
+                        </div>
+                        <div class="col-md-12">
+                          <div class="form-group">
+                            <input id="form_name" type="text" name="website" class="form-control" placeholder="votre site">
+                          </div>
+                        </div>
+                        <div class="col-lg-12">
+                          <div class="form-group">
+                            <textarea id="form_message" name="message" class="form-control" placeholder="Message *" style="height: 200px;" required="required"></textarea>
+                          </div>
+                        </div>
+                        <div class="col-lg-12">
+                          <input type="submit" class="btn btn-defeault btn-send" value="envoyer mon message">
+                        </div>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!--  </div> -->
+  <!-- start section main content -->
+
+  <!-- start section footer -->
+  <div id="footer" class="text-center">
+    <div class="container">
+      <div class="socials-media text-center">
+
+        <ul class="list-unstyled">
+          <li><a href="#"><i class="ion-social-facebook"></i></a></li>
+          <li><a href="#"><i class="ion-social-twitter"></i></a></li>
+          <li><a href="#"><i class="ion-social-instagram"></i></a></li>
+          <li><a href="#"><i class="ion-social-googleplus"></i></a></li>
+          <li><a href="#"><i class="ion-social-tumblr"></i></a></li>
+          <li><a href="#"><i class="ion-social-dribbble"></i></a></li>
+        </ul>
+
+      </div>
+
+      <p>&copy; Copyrights walid. All rights reserved.</p>
+
+      <div class="credits">
+        <!--
+          All the links in the footer should remain intact.
+          You can delete the links only if you purchased the pro version.
+          Licensing information: https://bootstrapmade.com/license/
+          Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Folio
+        -->
+        Designed by <a href="https://bootstrapmade.com/">Fourloul walid</a>
+      </div>
+
+    </div>
+  </div>
+  <!-- End section footer -->
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/typed/typed.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/magnific-popup/magnific-popup.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>
